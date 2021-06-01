@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(119, 158, 230);
+}
+
+.ukuran {
+    width: 360px;
+    height: 640px;
+    background-color: rgb(119, 158, 230);
+}
+
+marquee {
+    font-size: 25px;
+    color: white;
+}
